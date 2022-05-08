@@ -1,0 +1,35 @@
+1. npm install --save express
+Express - is used to handling and Calling the api's
+
+Used only for an Dev Dependencies
+To Install nodeman Package
+ npm install --save-dev nodemon
+
+
+--save-dev nodemon - used for handling the development environment 
+and automatically handle the server restarting
+
+
+
+Logging Package 
+morgon - used for logging the package for the node modules
+
+
+Body Parser - parse the body of the package
+Body - support url and json and it does not 
+files
+
+npm commands 
+
+npm install --save body-parser
+
+npm install --save multer <- for Parsing the form data
+
+npm install --save  jsonwebtoken
+
+
+//Reference Material
+https://github.com/academind/node-restful-api-tutorial/blob/07-orders-and-mongodb/api/routes/orders.js
+
+hid dev Material
+https://hidevs.net/course/nodejs-the-complete-guide
