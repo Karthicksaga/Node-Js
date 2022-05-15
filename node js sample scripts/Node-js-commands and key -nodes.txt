@@ -1,0 +1,8 @@
+1. To Start npm server u need to mention the script in package.json file and
+
+u need to run script app.js
+
+2.To restart the server without stopping install the packages
+npm install nodemon --save-dev
+
+-dev is only for development server

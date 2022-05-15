@@ -253,12 +253,4 @@ router.post("/productWithImage", checkAuth, upload.single('productImage'), (req,
       });
     });
 });
-
-
-
-
-
-
-
-
 module.exports = router;

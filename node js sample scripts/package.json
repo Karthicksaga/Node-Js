@@ -1,0 +1,15 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "\"Practice Comple Node Js File\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node app.js",
+    "start-server" :"node app.js"
+  },
+  "author": "karthick",
+  "license": "ISC"
+}
+
+

@@ -15,10 +15,7 @@ const auth = (req,res,next) => {
             message : "Auth failed"
         })
     }
-    
-
     //next() is successfully executed
 }
-
 
 module.exports = auth;
